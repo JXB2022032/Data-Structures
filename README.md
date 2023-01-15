@@ -15,7 +15,7 @@
 <img width="275" alt="Screen Shot 2023-01-08 at 8 42 56 AM" src="https://user-images.githubusercontent.com/96196349/211201897-d9689def-8fd5-457c-8f6d-4dd1a538d257.png"> Hornet
 
 
-• Game Instruction (How To Play): 
+## Game Instruction (How To Play): 
 
 Click "Start Game" to start the game. Click "Busy Bee" to spawn the Busy Bees. You can play around and try spawning different kinds of bees. The tanky bees are represented by cyon color, the busy bees are green, and the angry bees are in blue. The yellow tile represents the bee hive, and red tile represents the hornet nest. The number on the tile represents the number of hornets on the tile. If there are no bees blocking their way, the hornet move toward the bee hive in each turn. The hornet will die from the attack of angry bees/tanky bees, and vice versa. (Note: busy bee cannot attack).
 
