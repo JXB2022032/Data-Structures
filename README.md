@@ -5,11 +5,13 @@
 • The goal in this stragety game is to defend the player’s territories by obstructing the advance of the enemies troops.
 
 • Yellow Tile: Bee hive
+
 • Red Tile: Hornet nest
 
 • Blue Tile: Angry bee
 • Cyon Tile: Tanky bee
 • Green Tile: Busy bee
+
 • Numbers on the Tile: Hornets
 
 
